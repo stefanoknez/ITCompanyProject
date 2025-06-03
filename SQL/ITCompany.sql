@@ -89,4 +89,4 @@ INSERT INTO EmployeeProject (EmployeeID, ProjectID, AssignedDate)
 VALUES (1, 1, '2023-01-15'), (2, 2, '2023-03-10');
 
 INSERT INTO Salaries (EmployeeID, Amount, EffectiveDate)
-VALUES (1, 1200.00, '2023-01-01'), (2, 1400.00, '2023-01-01');
+VALUES (1, 1200.00, '2023-01-01'), (2, 1400.00, '2023-01-01');
